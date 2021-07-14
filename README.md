@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabiionut
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning golang & solidity
 
 <!---
 gabiionut/gabiionut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
